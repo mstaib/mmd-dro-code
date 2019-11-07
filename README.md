@@ -1,7 +1,7 @@
 # Distributionally Robust Optimization and Generalization in Kernel Methods
 This repository contains the supporting code for the paper:
 
-[Matthew Staib, Stefanie Jegelka. Distributionally Robust Optimization and Generalization in Kernel Methods. In _Advances in Neural Information Processing Systems 33_, 2019.](https://arxiv.org/abs/1905.10943)
+[Matthew Staib, Stefanie Jegelka. Distributionally Robust Optimization and Generalization in Kernel Methods. In _Advances in Neural Information Processing Systems 32_, 2019.](https://arxiv.org/abs/1905.10943)
 
 ```
 @inproceedings{staib2019distributionally,
